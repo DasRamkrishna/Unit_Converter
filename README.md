@@ -1,1 +1,1 @@
-# Unit-Converter
+This project is a simple web-based unit converter that allows users to input values, select units, and view converted results for measurements like length, weight, and temperature. It uses HTML and JavaScript to handle conversions. The interface is user-friendly, with real-time conversion results displayed upon user interaction.
